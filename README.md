@@ -3,4 +3,4 @@
 
 Hello,i live of the world!
 
-[Сайт №1](StrykSlavik.github.io/Site/index "Мой первый сайт!")
+[Сайт №1](StrykSlavik.github.io/Site/ "Мой первый сайт!")
