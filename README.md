@@ -1,2 +1,2 @@
 # StrykSlavik.github.io
-Cool
+Мої домашки
